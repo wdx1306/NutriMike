@@ -104,7 +104,7 @@
 
     </div>
     <div class="container-fluid mt--7">
-      @yield('title')
+    
       @yield('content')
       <!-- Footer -->
     </div>
